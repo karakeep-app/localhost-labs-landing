@@ -17,12 +17,12 @@ const Projects = () => {
       <Container>
           <div className="text-center mb-16">
             <h2 className="text-3xl md:text-4xl font-bold text-slate-900 mb-4">
-              Our Open Source Projects
+              Our Projects
             </h2>
           </div>
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-          {projectItems.map((project, index) => (
+          {projectItems.map((project) => (
               <div className="bg-white rounded-xl border border-slate-200 p-8 hover:shadow-lg transition-shadow">
                 <div className="flex items-start gap-6">
                   <div className="p-3 bg-blue-50 rounded-lg">
