@@ -1,8 +1,5 @@
-import React from 'react';
-import { Server, ArrowRight } from 'lucide-react';
-import Button from './ui/Button';
+import { Server } from 'lucide-react';
 import Container from './ui/Container';
-import FadeIn from './ui/FadeIn';
 
 const Hero = () => {
   return (

@@ -11,9 +11,6 @@ const Footer = () => {
               <Terminal className="h-6 w-6" />
               <span className="text-xl tracking-tight">localhost labs</span>
             </div>
-            <p className="text-slate-600 mb-6">
-              Building open source solutions for digital sovereignty and privacy.
-            </p>
             <p className="text-sm text-slate-500">
               © {new Date().getFullYear()} localhost labs Ltd. Registered in the UK.
             </p>
