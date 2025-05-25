@@ -23,7 +23,7 @@ const Header = () => {
       <div className="container mx-auto px-4 flex items-center justify-between">
         <a href="#" className="flex items-center gap-2 text-slate-800 font-semibold">
           <Terminal className="h-6 w-6" />
-          <span className="text-xl tracking-tight">Localhost Labs</span>
+          <span className="text-xl tracking-tight">localhost labs</span>
         </a>
 
         {/* Desktop Navigation */}

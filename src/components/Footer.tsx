@@ -9,7 +9,7 @@ const Footer = () => {
           <div className="max-w-sm">
             <div className="flex items-center gap-2 text-slate-800 font-semibold mb-4">
               <Terminal className="h-6 w-6" />
-              <span className="text-xl tracking-tight">Localhost Labs</span>
+              <span className="text-xl tracking-tight">localhost labs</span>
             </div>
             <p className="text-slate-600 mb-6">
               Building open source solutions for digital sovereignty and privacy.
